@@ -1,0 +1,19 @@
+.model{
+    width: 10rem;
+    height: 10rem;
+}
+div{
+    border: 2px solid red;
+    width: 15rem;
+    margin: 2rem;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+.op{
+    display: none;
+}
+.black{
+    display: block;
+}
